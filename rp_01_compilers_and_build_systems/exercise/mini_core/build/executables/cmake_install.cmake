@@ -1,4 +1,4 @@
-# Install script for directory: /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/executables
+# Install script for directory: /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/executables
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

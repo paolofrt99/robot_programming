@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core
+CMAKE_SOURCE_DIR = /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build
+CMAKE_BINARY_DIR = /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build
 
 # Include any dependencies generated for this target.
 include executables/CMakeFiles/many_object_in_stack_example.dir/depend.make
@@ -59,16 +59,16 @@ include executables/CMakeFiles/many_object_in_stack_example.dir/flags.make
 
 executables/CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_example.cpp.o: executables/CMakeFiles/many_object_in_stack_example.dir/flags.make
 executables/CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_example.cpp.o: ../executables/many_object_in_stack_example.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object executables/CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_example.cpp.o"
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build/executables && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_example.cpp.o -c /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/executables/many_object_in_stack_example.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object executables/CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_example.cpp.o"
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build/executables && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_example.cpp.o -c /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/executables/many_object_in_stack_example.cpp
 
 executables/CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_example.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_example.cpp.i"
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build/executables && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/executables/many_object_in_stack_example.cpp > CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_example.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build/executables && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/executables/many_object_in_stack_example.cpp > CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_example.cpp.i
 
 executables/CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_example.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_example.cpp.s"
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build/executables && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/executables/many_object_in_stack_example.cpp -o CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_example.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build/executables && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/executables/many_object_in_stack_example.cpp -o CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_example.cpp.s
 
 # Object files for target many_object_in_stack_example
 many_object_in_stack_example_OBJECTS = \
@@ -81,8 +81,8 @@ executables/many_object_in_stack_example: executables/CMakeFiles/many_object_in_
 executables/many_object_in_stack_example: executables/CMakeFiles/many_object_in_stack_example.dir/build.make
 executables/many_object_in_stack_example: src/libcore_library.so
 executables/many_object_in_stack_example: executables/CMakeFiles/many_object_in_stack_example.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable many_object_in_stack_example"
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build/executables && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/many_object_in_stack_example.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable many_object_in_stack_example"
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build/executables && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/many_object_in_stack_example.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 executables/CMakeFiles/many_object_in_stack_example.dir/build: executables/many_object_in_stack_example
@@ -90,10 +90,10 @@ executables/CMakeFiles/many_object_in_stack_example.dir/build: executables/many_
 .PHONY : executables/CMakeFiles/many_object_in_stack_example.dir/build
 
 executables/CMakeFiles/many_object_in_stack_example.dir/clean:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build/executables && $(CMAKE_COMMAND) -P CMakeFiles/many_object_in_stack_example.dir/cmake_clean.cmake
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build/executables && $(CMAKE_COMMAND) -P CMakeFiles/many_object_in_stack_example.dir/cmake_clean.cmake
 .PHONY : executables/CMakeFiles/many_object_in_stack_example.dir/clean
 
 executables/CMakeFiles/many_object_in_stack_example.dir/depend:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/executables /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build/executables /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build/executables/CMakeFiles/many_object_in_stack_example.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/executables /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build/executables /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build/executables/CMakeFiles/many_object_in_stack_example.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : executables/CMakeFiles/many_object_in_stack_example.dir/depend
 

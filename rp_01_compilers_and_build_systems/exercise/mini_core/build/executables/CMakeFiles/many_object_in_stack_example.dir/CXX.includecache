@@ -212,7 +212,7 @@ blob.h
 
 ../src/utils/trusted_loaders.h
 
-/home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/executables/many_object_in_stack_example.cpp
+/home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/executables/many_object_in_stack_example.cpp
 iostream
 -
 utils/deserializer.h

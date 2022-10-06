@@ -6,5 +6,5 @@ CXX_FLAGS = -fPIC
 
 CXX_DEFINES = -Dcore_library_EXPORTS
 
-CXX_INCLUDES = -I/usr/include/eigen3 -I/home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src 
+CXX_INCLUDES = -I/usr/include/eigen3 -I/home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src 
 

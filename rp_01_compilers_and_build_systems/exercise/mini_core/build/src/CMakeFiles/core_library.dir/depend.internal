@@ -14,8 +14,8 @@ src/CMakeFiles/core_library.dir/messages/base_sensor_message.cpp.o
  ../src/utils/property_macros.h
  ../src/utils/serializable.h
  ../src/utils/trusted_loaders.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/messages/base_sensor_message.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/messages/base_sensor_message.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/messages/base_sensor_message.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/messages/base_sensor_message.h
  /usr/include/eigen3/Eigen/Cholesky
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/Geometry
@@ -221,9 +221,9 @@ src/CMakeFiles/core_library.dir/messages/odometry_message.cpp.o
  ../src/utils/property_macros.h
  ../src/utils/serializable.h
  ../src/utils/trusted_loaders.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/messages/base_sensor_message.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/messages/odometry_message.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/messages/odometry_message.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/messages/base_sensor_message.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/messages/odometry_message.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/messages/odometry_message.h
  /usr/include/eigen3/Eigen/Cholesky
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/Geometry
@@ -429,8 +429,8 @@ src/CMakeFiles/core_library.dir/messages/pose_message.cpp.o
  ../src/utils/property_macros.h
  ../src/utils/serializable.h
  ../src/utils/trusted_loaders.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/messages/pose_message.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/messages/pose_message.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/messages/pose_message.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/messages/pose_message.h
  /usr/include/eigen3/Eigen/Cholesky
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/Geometry
@@ -623,15 +623,15 @@ src/CMakeFiles/core_library.dir/messages/pose_message.cpp.o
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 src/CMakeFiles/core_library.dir/utils/blob.cpp.o
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/src/Core/Array.h
  /usr/include/eigen3/Eigen/src/Core/ArrayBase.h
@@ -773,16 +773,16 @@ src/CMakeFiles/core_library.dir/utils/blob.cpp.o
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 src/CMakeFiles/core_library.dir/utils/deserializer.cpp.o
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/deserializer.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/deserializer.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/deserializer.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/deserializer.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/src/Core/Array.h
  /usr/include/eigen3/Eigen/src/Core/ArrayBase.h
@@ -924,14 +924,14 @@ src/CMakeFiles/core_library.dir/utils/deserializer.cpp.o
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 src/CMakeFiles/core_library.dir/utils/id_context.cpp.o
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/src/Core/Array.h
  /usr/include/eigen3/Eigen/src/Core/ArrayBase.h
@@ -1073,14 +1073,14 @@ src/CMakeFiles/core_library.dir/utils/id_context.cpp.o
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 src/CMakeFiles/core_library.dir/utils/id_placeholder.cpp.o
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/src/Core/Array.h
  /usr/include/eigen3/Eigen/src/Core/ArrayBase.h
@@ -1222,15 +1222,15 @@ src/CMakeFiles/core_library.dir/utils/id_placeholder.cpp.o
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 src/CMakeFiles/core_library.dir/utils/identifiable.cpp.o
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/src/Core/Array.h
  /usr/include/eigen3/Eigen/src/Core/ArrayBase.h
@@ -1372,12 +1372,12 @@ src/CMakeFiles/core_library.dir/utils/identifiable.cpp.o
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 src/CMakeFiles/core_library.dir/utils/object_data.cpp.o
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/src/Core/Array.h
  /usr/include/eigen3/Eigen/src/Core/ArrayBase.h
@@ -1519,18 +1519,18 @@ src/CMakeFiles/core_library.dir/utils/object_data.cpp.o
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 src/CMakeFiles/core_library.dir/utils/property.cpp.o
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_macros.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_macros.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/src/Core/Array.h
  /usr/include/eigen3/Eigen/src/Core/ArrayBase.h
@@ -1672,23 +1672,23 @@ src/CMakeFiles/core_library.dir/utils/property.cpp.o
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 src/CMakeFiles/core_library.dir/utils/property_container.cpp.o
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/deserializer.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container_manager.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_macros.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_vector.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializer.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/deserializer.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container_manager.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_macros.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_vector.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializer.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/src/Core/Array.h
  /usr/include/eigen3/Eigen/src/Core/ArrayBase.h
@@ -1830,23 +1830,23 @@ src/CMakeFiles/core_library.dir/utils/property_container.cpp.o
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 src/CMakeFiles/core_library.dir/utils/property_container_manager.cpp.o
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/deserializer.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container_manager.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container_manager.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_macros.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_vector.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializer.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/deserializer.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container_manager.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container_manager.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_macros.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_vector.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializer.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/src/Core/Array.h
  /usr/include/eigen3/Eigen/src/Core/ArrayBase.h
@@ -1988,15 +1988,15 @@ src/CMakeFiles/core_library.dir/utils/property_container_manager.cpp.o
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 src/CMakeFiles/core_library.dir/utils/property_eigen.cpp.o
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_eigen.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_eigen.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_macros.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_eigen.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_eigen.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_macros.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/src/Core/Array.h
  /usr/include/eigen3/Eigen/src/Core/ArrayBase.h
@@ -2138,17 +2138,17 @@ src/CMakeFiles/core_library.dir/utils/property_eigen.cpp.o
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 src/CMakeFiles/core_library.dir/utils/property_identifiable.cpp.o
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_identifiable.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_macros.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_vector.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_container.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_identifiable.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_macros.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/property_vector.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/src/Core/Array.h
  /usr/include/eigen3/Eigen/src/Core/ArrayBase.h
@@ -2290,12 +2290,12 @@ src/CMakeFiles/core_library.dir/utils/property_identifiable.cpp.o
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 src/CMakeFiles/core_library.dir/utils/serializable.cpp.o
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/src/Core/Array.h
  /usr/include/eigen3/Eigen/src/Core/ArrayBase.h
@@ -2437,14 +2437,14 @@ src/CMakeFiles/core_library.dir/utils/serializable.cpp.o
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 src/CMakeFiles/core_library.dir/utils/serialization_context.cpp.o
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializer.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializer.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/src/Core/Array.h
  /usr/include/eigen3/Eigen/src/Core/ArrayBase.h
@@ -2586,16 +2586,16 @@ src/CMakeFiles/core_library.dir/utils/serialization_context.cpp.o
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseBinaryOps.h
  /usr/include/eigen3/Eigen/src/plugins/MatrixCwiseUnaryOps.h
 src/CMakeFiles/core_library.dir/utils/serializer.cpp.o
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializer.cpp
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializer.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/blob.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/id_placeholder.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/identifiable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/object_data.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializable.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serialization_context.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializer.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/serializer.h
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/src/utils/trusted_loaders.h
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/src/Core/Array.h
  /usr/include/eigen3/Eigen/src/Core/ArrayBase.h

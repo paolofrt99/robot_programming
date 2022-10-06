@@ -26,7 +26,7 @@ executables/CMakeFiles/many_object_in_stack_example.dir/many_object_in_stack_exa
  ../src/utils/serializable.h
  ../src/utils/serialization_context.h
  ../src/utils/trusted_loaders.h
- /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/executables/many_object_in_stack_example.cpp
+ /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/executables/many_object_in_stack_example.cpp
  /usr/include/eigen3/Eigen/Cholesky
  /usr/include/eigen3/Eigen/Core
  /usr/include/eigen3/Eigen/Geometry

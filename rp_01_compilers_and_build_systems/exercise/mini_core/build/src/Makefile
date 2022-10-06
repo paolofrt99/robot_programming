@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core
+CMAKE_SOURCE_DIR = /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build
+CMAKE_BINARY_DIR = /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,14 +80,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build/CMakeFiles /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build/src/CMakeFiles/progress.marks
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f CMakeFiles/Makefile2 src/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build/CMakeFiles 0
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build/CMakeFiles /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build/src/CMakeFiles/progress.marks
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f CMakeFiles/Makefile2 src/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f CMakeFiles/Makefile2 src/clean
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f CMakeFiles/Makefile2 src/clean
 .PHONY : clean
 
 # The main clean target
@@ -97,22 +97,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f CMakeFiles/Makefile2 src/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 src/CMakeFiles/core_library.dir/rule:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/core_library.dir/rule
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/core_library.dir/rule
 .PHONY : src/CMakeFiles/core_library.dir/rule
 
 # Convenience name for target.
@@ -122,7 +122,7 @@ core_library: src/CMakeFiles/core_library.dir/rule
 
 # fast build rule for target.
 core_library/fast:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/build
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/build
 .PHONY : core_library/fast
 
 messages/base_sensor_message.o: messages/base_sensor_message.cpp.o
@@ -131,7 +131,7 @@ messages/base_sensor_message.o: messages/base_sensor_message.cpp.o
 
 # target to build an object file
 messages/base_sensor_message.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/base_sensor_message.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/base_sensor_message.cpp.o
 .PHONY : messages/base_sensor_message.cpp.o
 
 messages/base_sensor_message.i: messages/base_sensor_message.cpp.i
@@ -140,7 +140,7 @@ messages/base_sensor_message.i: messages/base_sensor_message.cpp.i
 
 # target to preprocess a source file
 messages/base_sensor_message.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/base_sensor_message.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/base_sensor_message.cpp.i
 .PHONY : messages/base_sensor_message.cpp.i
 
 messages/base_sensor_message.s: messages/base_sensor_message.cpp.s
@@ -149,7 +149,7 @@ messages/base_sensor_message.s: messages/base_sensor_message.cpp.s
 
 # target to generate assembly for a file
 messages/base_sensor_message.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/base_sensor_message.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/base_sensor_message.cpp.s
 .PHONY : messages/base_sensor_message.cpp.s
 
 messages/odometry_message.o: messages/odometry_message.cpp.o
@@ -158,7 +158,7 @@ messages/odometry_message.o: messages/odometry_message.cpp.o
 
 # target to build an object file
 messages/odometry_message.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/odometry_message.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/odometry_message.cpp.o
 .PHONY : messages/odometry_message.cpp.o
 
 messages/odometry_message.i: messages/odometry_message.cpp.i
@@ -167,7 +167,7 @@ messages/odometry_message.i: messages/odometry_message.cpp.i
 
 # target to preprocess a source file
 messages/odometry_message.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/odometry_message.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/odometry_message.cpp.i
 .PHONY : messages/odometry_message.cpp.i
 
 messages/odometry_message.s: messages/odometry_message.cpp.s
@@ -176,7 +176,7 @@ messages/odometry_message.s: messages/odometry_message.cpp.s
 
 # target to generate assembly for a file
 messages/odometry_message.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/odometry_message.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/odometry_message.cpp.s
 .PHONY : messages/odometry_message.cpp.s
 
 messages/pose_message.o: messages/pose_message.cpp.o
@@ -185,7 +185,7 @@ messages/pose_message.o: messages/pose_message.cpp.o
 
 # target to build an object file
 messages/pose_message.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/pose_message.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/pose_message.cpp.o
 .PHONY : messages/pose_message.cpp.o
 
 messages/pose_message.i: messages/pose_message.cpp.i
@@ -194,7 +194,7 @@ messages/pose_message.i: messages/pose_message.cpp.i
 
 # target to preprocess a source file
 messages/pose_message.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/pose_message.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/pose_message.cpp.i
 .PHONY : messages/pose_message.cpp.i
 
 messages/pose_message.s: messages/pose_message.cpp.s
@@ -203,7 +203,7 @@ messages/pose_message.s: messages/pose_message.cpp.s
 
 # target to generate assembly for a file
 messages/pose_message.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/pose_message.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/messages/pose_message.cpp.s
 .PHONY : messages/pose_message.cpp.s
 
 utils/blob.o: utils/blob.cpp.o
@@ -212,7 +212,7 @@ utils/blob.o: utils/blob.cpp.o
 
 # target to build an object file
 utils/blob.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/blob.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/blob.cpp.o
 .PHONY : utils/blob.cpp.o
 
 utils/blob.i: utils/blob.cpp.i
@@ -221,7 +221,7 @@ utils/blob.i: utils/blob.cpp.i
 
 # target to preprocess a source file
 utils/blob.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/blob.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/blob.cpp.i
 .PHONY : utils/blob.cpp.i
 
 utils/blob.s: utils/blob.cpp.s
@@ -230,7 +230,7 @@ utils/blob.s: utils/blob.cpp.s
 
 # target to generate assembly for a file
 utils/blob.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/blob.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/blob.cpp.s
 .PHONY : utils/blob.cpp.s
 
 utils/deserializer.o: utils/deserializer.cpp.o
@@ -239,7 +239,7 @@ utils/deserializer.o: utils/deserializer.cpp.o
 
 # target to build an object file
 utils/deserializer.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/deserializer.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/deserializer.cpp.o
 .PHONY : utils/deserializer.cpp.o
 
 utils/deserializer.i: utils/deserializer.cpp.i
@@ -248,7 +248,7 @@ utils/deserializer.i: utils/deserializer.cpp.i
 
 # target to preprocess a source file
 utils/deserializer.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/deserializer.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/deserializer.cpp.i
 .PHONY : utils/deserializer.cpp.i
 
 utils/deserializer.s: utils/deserializer.cpp.s
@@ -257,7 +257,7 @@ utils/deserializer.s: utils/deserializer.cpp.s
 
 # target to generate assembly for a file
 utils/deserializer.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/deserializer.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/deserializer.cpp.s
 .PHONY : utils/deserializer.cpp.s
 
 utils/id_context.o: utils/id_context.cpp.o
@@ -266,7 +266,7 @@ utils/id_context.o: utils/id_context.cpp.o
 
 # target to build an object file
 utils/id_context.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/id_context.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/id_context.cpp.o
 .PHONY : utils/id_context.cpp.o
 
 utils/id_context.i: utils/id_context.cpp.i
@@ -275,7 +275,7 @@ utils/id_context.i: utils/id_context.cpp.i
 
 # target to preprocess a source file
 utils/id_context.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/id_context.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/id_context.cpp.i
 .PHONY : utils/id_context.cpp.i
 
 utils/id_context.s: utils/id_context.cpp.s
@@ -284,7 +284,7 @@ utils/id_context.s: utils/id_context.cpp.s
 
 # target to generate assembly for a file
 utils/id_context.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/id_context.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/id_context.cpp.s
 .PHONY : utils/id_context.cpp.s
 
 utils/id_placeholder.o: utils/id_placeholder.cpp.o
@@ -293,7 +293,7 @@ utils/id_placeholder.o: utils/id_placeholder.cpp.o
 
 # target to build an object file
 utils/id_placeholder.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/id_placeholder.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/id_placeholder.cpp.o
 .PHONY : utils/id_placeholder.cpp.o
 
 utils/id_placeholder.i: utils/id_placeholder.cpp.i
@@ -302,7 +302,7 @@ utils/id_placeholder.i: utils/id_placeholder.cpp.i
 
 # target to preprocess a source file
 utils/id_placeholder.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/id_placeholder.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/id_placeholder.cpp.i
 .PHONY : utils/id_placeholder.cpp.i
 
 utils/id_placeholder.s: utils/id_placeholder.cpp.s
@@ -311,7 +311,7 @@ utils/id_placeholder.s: utils/id_placeholder.cpp.s
 
 # target to generate assembly for a file
 utils/id_placeholder.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/id_placeholder.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/id_placeholder.cpp.s
 .PHONY : utils/id_placeholder.cpp.s
 
 utils/identifiable.o: utils/identifiable.cpp.o
@@ -320,7 +320,7 @@ utils/identifiable.o: utils/identifiable.cpp.o
 
 # target to build an object file
 utils/identifiable.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/identifiable.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/identifiable.cpp.o
 .PHONY : utils/identifiable.cpp.o
 
 utils/identifiable.i: utils/identifiable.cpp.i
@@ -329,7 +329,7 @@ utils/identifiable.i: utils/identifiable.cpp.i
 
 # target to preprocess a source file
 utils/identifiable.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/identifiable.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/identifiable.cpp.i
 .PHONY : utils/identifiable.cpp.i
 
 utils/identifiable.s: utils/identifiable.cpp.s
@@ -338,7 +338,7 @@ utils/identifiable.s: utils/identifiable.cpp.s
 
 # target to generate assembly for a file
 utils/identifiable.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/identifiable.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/identifiable.cpp.s
 .PHONY : utils/identifiable.cpp.s
 
 utils/object_data.o: utils/object_data.cpp.o
@@ -347,7 +347,7 @@ utils/object_data.o: utils/object_data.cpp.o
 
 # target to build an object file
 utils/object_data.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/object_data.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/object_data.cpp.o
 .PHONY : utils/object_data.cpp.o
 
 utils/object_data.i: utils/object_data.cpp.i
@@ -356,7 +356,7 @@ utils/object_data.i: utils/object_data.cpp.i
 
 # target to preprocess a source file
 utils/object_data.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/object_data.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/object_data.cpp.i
 .PHONY : utils/object_data.cpp.i
 
 utils/object_data.s: utils/object_data.cpp.s
@@ -365,7 +365,7 @@ utils/object_data.s: utils/object_data.cpp.s
 
 # target to generate assembly for a file
 utils/object_data.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/object_data.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/object_data.cpp.s
 .PHONY : utils/object_data.cpp.s
 
 utils/property.o: utils/property.cpp.o
@@ -374,7 +374,7 @@ utils/property.o: utils/property.cpp.o
 
 # target to build an object file
 utils/property.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property.cpp.o
 .PHONY : utils/property.cpp.o
 
 utils/property.i: utils/property.cpp.i
@@ -383,7 +383,7 @@ utils/property.i: utils/property.cpp.i
 
 # target to preprocess a source file
 utils/property.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property.cpp.i
 .PHONY : utils/property.cpp.i
 
 utils/property.s: utils/property.cpp.s
@@ -392,7 +392,7 @@ utils/property.s: utils/property.cpp.s
 
 # target to generate assembly for a file
 utils/property.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property.cpp.s
 .PHONY : utils/property.cpp.s
 
 utils/property_container.o: utils/property_container.cpp.o
@@ -401,7 +401,7 @@ utils/property_container.o: utils/property_container.cpp.o
 
 # target to build an object file
 utils/property_container.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_container.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_container.cpp.o
 .PHONY : utils/property_container.cpp.o
 
 utils/property_container.i: utils/property_container.cpp.i
@@ -410,7 +410,7 @@ utils/property_container.i: utils/property_container.cpp.i
 
 # target to preprocess a source file
 utils/property_container.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_container.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_container.cpp.i
 .PHONY : utils/property_container.cpp.i
 
 utils/property_container.s: utils/property_container.cpp.s
@@ -419,7 +419,7 @@ utils/property_container.s: utils/property_container.cpp.s
 
 # target to generate assembly for a file
 utils/property_container.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_container.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_container.cpp.s
 .PHONY : utils/property_container.cpp.s
 
 utils/property_container_manager.o: utils/property_container_manager.cpp.o
@@ -428,7 +428,7 @@ utils/property_container_manager.o: utils/property_container_manager.cpp.o
 
 # target to build an object file
 utils/property_container_manager.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_container_manager.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_container_manager.cpp.o
 .PHONY : utils/property_container_manager.cpp.o
 
 utils/property_container_manager.i: utils/property_container_manager.cpp.i
@@ -437,7 +437,7 @@ utils/property_container_manager.i: utils/property_container_manager.cpp.i
 
 # target to preprocess a source file
 utils/property_container_manager.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_container_manager.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_container_manager.cpp.i
 .PHONY : utils/property_container_manager.cpp.i
 
 utils/property_container_manager.s: utils/property_container_manager.cpp.s
@@ -446,7 +446,7 @@ utils/property_container_manager.s: utils/property_container_manager.cpp.s
 
 # target to generate assembly for a file
 utils/property_container_manager.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_container_manager.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_container_manager.cpp.s
 .PHONY : utils/property_container_manager.cpp.s
 
 utils/property_eigen.o: utils/property_eigen.cpp.o
@@ -455,7 +455,7 @@ utils/property_eigen.o: utils/property_eigen.cpp.o
 
 # target to build an object file
 utils/property_eigen.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_eigen.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_eigen.cpp.o
 .PHONY : utils/property_eigen.cpp.o
 
 utils/property_eigen.i: utils/property_eigen.cpp.i
@@ -464,7 +464,7 @@ utils/property_eigen.i: utils/property_eigen.cpp.i
 
 # target to preprocess a source file
 utils/property_eigen.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_eigen.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_eigen.cpp.i
 .PHONY : utils/property_eigen.cpp.i
 
 utils/property_eigen.s: utils/property_eigen.cpp.s
@@ -473,7 +473,7 @@ utils/property_eigen.s: utils/property_eigen.cpp.s
 
 # target to generate assembly for a file
 utils/property_eigen.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_eigen.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_eigen.cpp.s
 .PHONY : utils/property_eigen.cpp.s
 
 utils/property_identifiable.o: utils/property_identifiable.cpp.o
@@ -482,7 +482,7 @@ utils/property_identifiable.o: utils/property_identifiable.cpp.o
 
 # target to build an object file
 utils/property_identifiable.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_identifiable.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_identifiable.cpp.o
 .PHONY : utils/property_identifiable.cpp.o
 
 utils/property_identifiable.i: utils/property_identifiable.cpp.i
@@ -491,7 +491,7 @@ utils/property_identifiable.i: utils/property_identifiable.cpp.i
 
 # target to preprocess a source file
 utils/property_identifiable.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_identifiable.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_identifiable.cpp.i
 .PHONY : utils/property_identifiable.cpp.i
 
 utils/property_identifiable.s: utils/property_identifiable.cpp.s
@@ -500,7 +500,7 @@ utils/property_identifiable.s: utils/property_identifiable.cpp.s
 
 # target to generate assembly for a file
 utils/property_identifiable.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_identifiable.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/property_identifiable.cpp.s
 .PHONY : utils/property_identifiable.cpp.s
 
 utils/serializable.o: utils/serializable.cpp.o
@@ -509,7 +509,7 @@ utils/serializable.o: utils/serializable.cpp.o
 
 # target to build an object file
 utils/serializable.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serializable.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serializable.cpp.o
 .PHONY : utils/serializable.cpp.o
 
 utils/serializable.i: utils/serializable.cpp.i
@@ -518,7 +518,7 @@ utils/serializable.i: utils/serializable.cpp.i
 
 # target to preprocess a source file
 utils/serializable.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serializable.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serializable.cpp.i
 .PHONY : utils/serializable.cpp.i
 
 utils/serializable.s: utils/serializable.cpp.s
@@ -527,7 +527,7 @@ utils/serializable.s: utils/serializable.cpp.s
 
 # target to generate assembly for a file
 utils/serializable.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serializable.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serializable.cpp.s
 .PHONY : utils/serializable.cpp.s
 
 utils/serialization_context.o: utils/serialization_context.cpp.o
@@ -536,7 +536,7 @@ utils/serialization_context.o: utils/serialization_context.cpp.o
 
 # target to build an object file
 utils/serialization_context.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serialization_context.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serialization_context.cpp.o
 .PHONY : utils/serialization_context.cpp.o
 
 utils/serialization_context.i: utils/serialization_context.cpp.i
@@ -545,7 +545,7 @@ utils/serialization_context.i: utils/serialization_context.cpp.i
 
 # target to preprocess a source file
 utils/serialization_context.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serialization_context.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serialization_context.cpp.i
 .PHONY : utils/serialization_context.cpp.i
 
 utils/serialization_context.s: utils/serialization_context.cpp.s
@@ -554,7 +554,7 @@ utils/serialization_context.s: utils/serialization_context.cpp.s
 
 # target to generate assembly for a file
 utils/serialization_context.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serialization_context.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serialization_context.cpp.s
 .PHONY : utils/serialization_context.cpp.s
 
 utils/serializer.o: utils/serializer.cpp.o
@@ -563,7 +563,7 @@ utils/serializer.o: utils/serializer.cpp.o
 
 # target to build an object file
 utils/serializer.cpp.o:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serializer.cpp.o
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serializer.cpp.o
 .PHONY : utils/serializer.cpp.o
 
 utils/serializer.i: utils/serializer.cpp.i
@@ -572,7 +572,7 @@ utils/serializer.i: utils/serializer.cpp.i
 
 # target to preprocess a source file
 utils/serializer.cpp.i:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serializer.cpp.i
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serializer.cpp.i
 .PHONY : utils/serializer.cpp.i
 
 utils/serializer.s: utils/serializer.cpp.s
@@ -581,7 +581,7 @@ utils/serializer.s: utils/serializer.cpp.s
 
 # target to generate assembly for a file
 utils/serializer.cpp.s:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serializer.cpp.s
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(MAKE) -f src/CMakeFiles/core_library.dir/build.make src/CMakeFiles/core_library.dir/utils/serializer.cpp.s
 .PHONY : utils/serializer.cpp.s
 
 # Help Target
@@ -655,6 +655,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/pab99/Desktop/sapienza/esercizi/robotprogramming_2022_23/robotprogramming_2022_23/exercises/robot_programming/rp_01_compilers_and_build_systems/exercise/mini_core/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 
